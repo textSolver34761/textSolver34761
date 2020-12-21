@@ -11,21 +11,6 @@ I'm an apprentice Java software developer, willing to be a Data Engineer. <br />
 
 See you soon!
 
-<hr>
-
-### Bonjour 👋
-
-Je suis un apprenti développeur logiciel Java, avec la vontonté de devenir Data Ingénieur. <br />
-<br />
-🔭 Actuellement, je travail sur Java et JavaScript <br />
-🌱 J'apprends le Python, la data viz, le Big data ... <br />
-
-📫 Pour rester en contact : <br/> 
-[Twitter](https://twitter.com/benjamin_pradon) <br />
-[StackOverflow](https://stackoverflow.com/users/9221079/textsolver34761) <br />
-
-
-A bientôt!
 
 
 <!--
