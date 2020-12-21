@@ -11,6 +11,8 @@ I'm an apprentice Java software developer, willing to be a Data Engineer. <br />
 
 See you soon!
 
+<hr>
+
 ### Bonjour 👋
 
 Je suis un apprenti développeur logiciel Java, avec la vontonté de devenir Data Ingénieur. <br />
