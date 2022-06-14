@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an apprentice Java software developer, willing to be a Data Engineer. <br />
+I'm an apprentice Java software developer, willing to be a software architecte. <br />
 <br />
 🔭 I’m currently working on Java and JavaScript <br />
 🌱 I’m currently learning Python, data viz, Big data ... <br />
